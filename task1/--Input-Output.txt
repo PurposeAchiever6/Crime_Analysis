@@ -1,0 +1,6 @@
+Input file
+	Object.txt
+	Subject.txt
+	Get_urls_deploy.py
+Output file
+	url.csv

@@ -1,0 +1,9 @@
+seleniumbase
+openai
+langchain
+python-dotenv
+sentence-transformers~=2.2.1
+chromadb
+hns
+openpyxl
+pandas

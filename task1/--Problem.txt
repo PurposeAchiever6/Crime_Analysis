@@ -1,0 +1,14 @@
+Links google search
+-------------
+Input
+We are looking to get a compiled list of links related to adverse media of a specific person. We will provide a list of words (Subject) that will be linked to another list of words (Object).
+
+Deliverable
+We aim to compile a collection of unique links resulting from every conceivable keyword combination sourced from the following search parameters:
+Subject 1, Object 1,2,3,4,5….n
+Subject 2, Object 1,2,3,4,5…n
+Subject n, Object 1,2,3,4,5…n
+• 10 pages from Google.co.uk
+• 10 pages from Google.us
+• 5 pages from Bing.co.uk
+• 5 pages from Bing.us"

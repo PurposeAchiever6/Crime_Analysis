@@ -1,0 +1,9 @@
+To achieve this, you would need to perform the following steps:
+1. Create a list of Subject keywords: Compile a list of words or phrases that describe the specific person you are interested in. These keywords will be used to search for relevant information.
+2. Create a list of Object keywords: Prepare another list of words or phrases that are related to the adverse media you are looking for. These keywords will be combined with the Subject keywords to generate search queries.
+3. Generate search queries: Combine each Subject keyword with every Object keyword to create search queries. For example, if you have three Subject keywords (Subject 1, Subject 2, Subject 3) and five Object keywords (Object 1, Object 2, Object 3, Object 4, Object 5), you will have a total of 15 search queries.
+4. Perform the search: Use a web scraping tool or a search engine API to search for each query on the specified search engines (Google.co.uk, Google.us, Bing.co.uk, Bing.us). Retrieve the search results for each query.
+5. Extract the links: From the search results, extract the URLs of the web pages. Remove any duplicate links to ensure a collection of unique links.
+6. Compile the final list: Combine all the unique links obtained from the search results into a single compiled list.
+7. Organize the list: Categorize the links based on the search engine and the search parameters used (e.g., Google.co.uk, Google.us, Bing.co.uk, Bing.us, Subject, Object).
+8. Limit the number of pages: Since you specified a certain number of pages to retrieve from each search engine, make sure to limit the number of links per search engine and per search parameter accordingly.
